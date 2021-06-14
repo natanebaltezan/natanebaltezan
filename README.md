@@ -1,4 +1,8 @@
 ### Hi there 👋
+ <div>
+  <a href="https://github.com/natanebaltezan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanebaltezan&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
  ![Snake animation](https://github.com/natanebaltezan/natanebaltezan/blob/output/github-contribution-grid-snake.svg)
  
