@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Snake Animation](https://raw.githubusercontent.com/natanebaltezan/natanebaltezan/ac9ac3d3e6e255748e92299271a3ae7cea47633f/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/natanebaltezan/natanebaltezan/ac9ac3d3e6e255748e92299271a3ae7cea47633f/github-contribution-grid-snake.svg
 
 <!--
 **natanebaltezan/natanebaltezan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
